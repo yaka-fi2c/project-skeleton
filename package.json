@@ -1,0 +1,33 @@
+{
+  "name": "skeleton-project",
+  "version": "1.0.0",
+  "description": "a skeleton project with grunt tasks",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaka-fi2c/project-template/blob/master/README.md"
+  },
+  "keywords": [
+    "skeleton-project"
+  ],
+  "author": "yakir-fitousi",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-builder": "0.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-html-build": "^0.7.1",
+    "grunt-open": "^0.2.3",
+    "grunt-sass": "^3.0.2",
+    "grunt-template": "^1.0.0",
+    "node-sass": "^4.10.0"
+  }
+}
